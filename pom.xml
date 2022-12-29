@@ -8,7 +8,7 @@
 	
 	<version>0.0.3</version> 
 	
-	<name>maven-web-application</name>
+	<name>apple-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
 
@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app</finalName>
+		<finalName>apple-web-application</finalName>
 		
 		<plugins>
 			<plugin>
