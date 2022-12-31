@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Apple Revolution project 2023 automation where disruption is the game.</h1>
+<h1 align="center">Apple Revolution project 2023 automation where disruption is the game.</h1>
 <h1 align="center">We are questions the status as we believe all things are possible like the scripture says. Quality is our goal while change is our focus.You are welcome to join us on this exciting journey as we reach for the starts.</h1>
 <hr>
 <br>
@@ -33,7 +33,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
                 Landmark Technology, 
-		Toronto, Canada
+		Toronto, Ontario, Canada
 		+1 437 215 2483,
 		mylandmarktech@gmail.com
 		<br>
@@ -44,8 +44,12 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center> Landmark Technologies - Consultant, Training and Software Development</p>
+<p align=center>Landmark Technologies - Consultant, Training and Software Development</p>
 <p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
 
 </body>
 </html>
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
