@@ -8,7 +8,7 @@
 	
 	<version>0.0.4</version> 
 	
-	<name>maven-web-application</name>
+	<name>apple-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
 
@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>apple_prod</finalName>
 		
 		<plugins>
 			<plugin>
